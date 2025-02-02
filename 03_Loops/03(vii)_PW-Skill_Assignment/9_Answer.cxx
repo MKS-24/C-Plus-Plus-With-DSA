@@ -1,0 +1,13 @@
+// Q1. Predict the Output.
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    for (int x = 1; x * x <= 10; x++)
+        cout << "In for loop" << endl;
+    return 0;
+}
+
+// In foor Loop
+// In foor Loop
+// In foor Loop
